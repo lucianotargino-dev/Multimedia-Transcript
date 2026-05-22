@@ -1,0 +1,31 @@
+# Python
+__pycache__/
+*.pyc
+
+# Ambiente virtual
+venv/
+.venv/
+
+# Arquivos temporários
+*.wav
+*.tmp
+
+# Arquivos gerados
+Transcricao.txt
+
+# Cache Hugging Face
+.cache/
+huggingface/
+
+# Arquivos locais
+cache.py
+
+# Variáveis de ambiente
+.env
+
+# VSCode
+.vscode/
+
+# Windows
+Thumbs.db
+Desktop.ini
