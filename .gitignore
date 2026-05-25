@@ -29,3 +29,6 @@ cache.py
 # Windows
 Thumbs.db
 Desktop.ini
+
+#Erros documentados para posterior correção
+Erros/
