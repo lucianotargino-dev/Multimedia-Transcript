@@ -188,6 +188,8 @@ def converter_para_wav(arquivo_video, arquivo_audio):
         "-ar", "16000",     # sample rate
         "-ac", "1",         # mono
         "-loglevel", "error",
+        "-hide_banner",
+        "-stats",
 
         arquivo_audio
     ]
